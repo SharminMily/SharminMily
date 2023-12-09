@@ -10,8 +10,15 @@
 <h4>- 🌱 I’m currently learning full-stack development.</h4> 
 <h2></h2>
 
+<h3 align="left">My Skill :</h3>
+<p align="center">
 
-<h2>Current Summary</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,tailwindcss,bootstrap,firebase)](https://skillicons.dev)
+
+</p>
+<h2></h2>
+
+# Current Summary
 
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sharminmily&show_icons=true&locale=en&layout=compact&" alt="sharminmily" /></p>
@@ -22,15 +29,6 @@
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sharminmily&theme=midnight_purple" alt="sharminmily" />
-</p>
-
-
-<h3 align="left">My Skill :</h3>
-
-<p align="center">
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,tailwindcss,bootstrap,firebase)](https://skillicons.dev) -->
-
 </p>
 
 <div align="center">
@@ -49,7 +47,7 @@
 </div>
 
 
-# liveProject : 
+# Live Project : 
 
    - [Travel-blog](https://travel-blog-client.web.app)
 
