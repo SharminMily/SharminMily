@@ -11,7 +11,7 @@
 <h2></h2>
 
 
-<h2>Current</h2>
+<h2>Current Summary</h2>
 
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sharminmily&show_icons=true&locale=en&layout=compact&" alt="sharminmily" /></p>
@@ -29,7 +29,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,tailwindcss,bootstrap,firebase)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,tailwindcss,bootstrap,firebase)](https://skillicons.dev) -->
 
 </p>
 
@@ -51,15 +51,12 @@
 
 # liveProject : 
 
+   - [Travel-blog](https://travel-blog-client.web.app)
 
-
-   - Travel-blog : [(https://travel-blog-client.web.app)]
-
-   - Social Events : [(https://react-social-events-92624.web.app)]
+   - [Social Events](https://react-social-events-92624.web.app)
     
-   - Camps Medical : [(https://camps-medical.surge.sh)]
+   - [Camps Medical](https://camps-medical.surge.sh)
  
-
 
 
 
