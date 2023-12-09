@@ -22,15 +22,17 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sharminmily&show_icons=true&locale=en&layout=compact" alt="sharminmily" /></p>
 
-
-
-
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=sharminmily&show_icons=true&locale=en" alt="sharminmily" />
+</p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharminmily&theme=dayfox" alt="sharminmily" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharminmily&show_icons=true&locale=en" alt="sharminmily" />
-
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sharminmily&theme=dayfox" alt="sharminmily" />
 </p>
+
+
+
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharminmily&theme=dayfox)](https://git.io/streak-stats) -->
 
