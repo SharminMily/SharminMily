@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/BwZ3p66/github-Profile-4.png" alt="sharminmily"  width="100%" height="100%" />
+<img src="https://i.ibb.co/ymf9v1Xt/Hi-I-m-Sharmin-Akther-1.png" alt="sharminmily"  width="100%" height="100%" />
 
 <h3 align="center">Frontend developer from Bangladesh</h3>
 
