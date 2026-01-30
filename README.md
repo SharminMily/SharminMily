@@ -26,12 +26,7 @@
   </h3>
 </div>
 
-<style>
-  @keyframes underline {
-    0% { width: 30%; left: 35%; }
-    100% { width: 70%; left: 15%; }
-  }
-</style>
+
 
 <div align="center" style="margin: 40px 0;">
   <img 
