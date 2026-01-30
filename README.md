@@ -46,6 +46,10 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharminmily&theme=radical" alt="Streak Stats" style="width: 100%; border-radius: 10px;" />
 </div>
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=sharminmily&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 ## 🌟 Live Projects
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
 
@@ -68,8 +72,3 @@ Each project is designed to be fully responsive, ensuring a great experience on 
   </a>
 </div>
 
----
-
-<div align="center" style="font-size: 12px; color: #95a5a6; margin-top: 40px;">
-  <p>Built with ❤️ by Sharmin Akther | Last updated: January 2026</p>
-</div>
