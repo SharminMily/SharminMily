@@ -4,7 +4,7 @@
       src="./images/banner.png" 
       alt="Sharmin Akther - Full-Stack Developer Banner" 
       width="100%" 
-      style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); max-width: 1200px;"
+     
     />
   </a>
 </div>
@@ -12,18 +12,7 @@
 <br>
 
 <div align="center">
-  <h1 style="
-    font-size: 3.2em; 
-    margin: 0; 
-    background: linear-gradient(90deg, #667eea, #764ba2, #6B7280); 
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent; 
-    background-clip: text; 
-    font-family: 'Segoe UI', system-ui, sans-serif;
-    font-weight: 800;
-  ">
-    Sharmin Akther
-  </h1>
+ 
 
   <h3 style="
     margin: 12px 0 30px; 
@@ -33,8 +22,7 @@
     position: relative;
     display: inline-block;
   ">
-    Passionate Full-Stack Developer from Bangladesh 🇧🇩
-    <span style="
+    Passionate Full-Stack Developer from Bangladesh  <span style="
       position: absolute; 
       bottom: -8px; 
       left: 0; 
