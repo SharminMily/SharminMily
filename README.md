@@ -22,16 +22,7 @@
     position: relative;
     display: inline-block;
   ">
-    Passionate Full-Stack Developer from Bangladesh  <span style="
-      position: absolute; 
-      bottom: -8px; 
-      left: 0; 
-      width: 100%; 
-      height: 3px; 
-      background: linear-gradient(90deg, #667eea, #764ba2); 
-      border-radius: 3px;
-      animation: underline 3s infinite alternate;
-    "></span>
+    Passionate Full-Stack Developer from Bangladesh  <span </span>
   </h3>
 </div>
 
