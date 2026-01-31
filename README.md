@@ -74,24 +74,6 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 
 </div>
 
-
-
-## 🌟 Live Projects
-
-Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
-
-- **[Bicycle Store](https://bicycle-store-fontend.vercel.app/)**  
-  Responsive e-commerce platform for bicycle enthusiasts.  
-  (Tech: Next.js, MongoDB, mongoose, Redux, Tailwind CSS)
-
-- **[Next Events](https://next-event-pro.vercel.app)**  
-  Event management app with real-time updates & RSVP.  
-  (Tech: Next.js, SQL, Prisma, Typescript, Firebase)
-
-<!-- Uncomment if you want to add back -->
-<!-- - **[Camps Medical](https://camps-medical.surge.sh)**: Healthcare portal for medical camps. (Tech: React, Node.js, PostgreSQL) -->
-
-Each project is fully responsive — mobile, tablet, desktop.
 <!-- Profile Views -->
 <div style="margin: 30px 0;">
   <img
@@ -111,10 +93,29 @@ Each project is fully responsive — mobile, tablet, desktop.
   </a>
   <a href="https://x.com/Sharmin9749601?t=0JIyQ8BVXxg-xh8OgcoA8A&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Twitter" />
-
-   
+  
   </a>
 </div> 
+## 🌟 Live Projects
+
+Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
+
+- **[Bicycle Store](https://bicycle-store-fontend.vercel.app/)**  
+  Responsive e-commerce platform for bicycle enthusiasts.  
+  (Tech: Next.js, MongoDB, mongoose, Redux, Tailwind CSS)
+
+- **[Next Events](https://next-event-pro.vercel.app)**  
+  Event management app with real-time updates & RSVP.  
+  (Tech: Next.js, SQL, Prisma, Typescript, Firebase)
+
+<!-- Uncomment if you want to add back -->
+<!-- - **[Camps Medical](https://camps-medical.surge.sh)**: Healthcare portal for medical camps. (Tech: React, Node.js, PostgreSQL) -->
+
+Each project is fully responsive — mobile, tablet, desktop.
+
+
+
+
 
 
 
