@@ -31,7 +31,7 @@
 <!-- Profile Views - placed nicely -->
 <div align="center" style="margin: 30px 0;">
   <img
-    src="https://komarev.com/ghpvc/?username=sharminmily&label=Profile%20Views&color=6B7280&style=for-the-badge&logo=eye&logoColor=white"
+    src="https://komarev.com/ghpvc/?username=sharminmily&label=Profile%20Views&color=1DA1F2&style=for-the-badge&logo=eye&logoColor=white"
     alt="Profile Views Counter"
   />
 </div>
@@ -69,10 +69,13 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
 </div>
 
 ## 📊 GitHub Stats
-![Sharmin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=nord&rank_icon=github)
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=nord&hide_border=true)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=nord&hide_border=true)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=123)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  ![Sharmin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github)
+  ![GitHub Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharminmily&theme=dracula)
+  ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true)
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true)
+  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=123)
+</div>
 
 ## 🌟 Live Projects
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
@@ -101,7 +104,7 @@ Each project is fully responsive — mobile, tablet, desktop.
   <a href="https://x.com/Sharmin9749601?t=0JIyQ8BVXxg-xh8OgcoA8A&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Twitter" />
   </a>
-  <a href="sharminmily09@gmail.com" target="_blank">
+  <a href="mailto:sharminmily09@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Email" />
   </a>
 </div>
