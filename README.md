@@ -35,10 +35,13 @@
     alt="Profile Views Counter"
   />
 </div>
+
 ## 🚀 About Me
 I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-centric web applications. Proficient in TypeScript, Prisma, Mongoose, SQL, and cutting-edge JavaScript frameworks, I excel at building robust APIs with Node.js & Express, and managing databases like MongoDB and PostgreSQL. My goal? Turning innovative ideas into impactful digital experiences with clean, maintainable code. Always evolving with the latest tech trends!
+
 - 🌱 Currently honing my skills in advanced full-stack architectures and cloud deployments.
 - 💡 Fun fact: I love blending creativity with code to solve real-world problems.
+
 ## 🛠️ My Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="50" />
@@ -65,7 +68,7 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
   <img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" title="HTMX" width="50" />
 </div>
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Sharmin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=nord&rank_icon=github)
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=nord&hide_border=true)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=nord&hide_border=true)
@@ -73,14 +76,18 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
 
 ## 🌟 Live Projects
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
+
 - **[Bicycle Store](https://bicycle-store-fontend.vercel.app/)**
   Responsive e-commerce platform for bicycle enthusiasts.
   (Tech: Next.js, Prisma, Tailwind CSS)
+
 - **[Next Events](https://next-event-pro.vercel.app)**
   Event management app with real-time updates & RSVP.
   (Tech: Next.js, MongoDB, Firebase)
+
 <!-- Uncomment if you want to add back -->
 <!-- - **[Camps Medical](https://camps-medical.surge.sh)**: Healthcare portal for medical camps. (Tech: React, Node.js, PostgreSQL) -->
+
 Each project is fully responsive — mobile, tablet, desktop.
 
 ## 📫 Connect with Me
@@ -93,5 +100,8 @@ Each project is fully responsive — mobile, tablet, desktop.
   </a>
   <a href="https://x.com/Sharmin9749601?t=0JIyQ8BVXxg-xh8OgcoA8A&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Twitter" />
+  </a>
+  <a href="sharminmily09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Email" />
   </a>
 </div>
