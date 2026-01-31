@@ -77,7 +77,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 ##
 <!-- Profile Views -->
 <div  >
-  👁️<img
+  <img
     src="https://komarev.com/ghpvc/?username=sharminmily&color=1DA1F2&style=flat&logo=eye&logoColor=white"
     alt="Profile views counter"
   />
