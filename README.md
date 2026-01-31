@@ -76,10 +76,16 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 
 ##
 <!-- Profile Views -->
-<div style="margin: 30px 0;">
+<div align="center" style="margin: 40px 0;">
+  <img 
+    src="https://img.shields.io/badge/👁️-sharminmily's%20Views-1DA1F2?style=flat&logo=eye&logoColor=white" 
+    alt="Eye Icon." 
+    height="50"
+  />
+  <br>
   <img
-    src="https://komarev.com/ghpvc/?username=sharminmily&label=Profile%20Views&color=1DA1F2&style=for-the-badge&logo=eye&logoColor=white"
-    alt="Profile views counter."
+    src="https://komarev.com/ghpvc/?username=sharminmily&color=1DA1F2&style=flat&logo=eye&logoColor=white"
+    alt="Profile views counter"
   />
 </div>
 
