@@ -3,14 +3,6 @@
     <img src="./images/banner.png" alt="Banner" width="100%" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <h3 style="margin: 12px 0 30px; color: #a0aec0; font-style: italic; font-size: 1.4em;">
-    Passionate Full-Stack Developer!
-  </h3>
-</div>
 <!-- Profile Views -->
 <div style="margin: 30px 0;">
   <img
