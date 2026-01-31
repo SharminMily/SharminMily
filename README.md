@@ -74,6 +74,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 
 </div>
 
+##
 <!-- Profile Views -->
 <div style="margin: 30px 0;">
   <img
@@ -96,6 +97,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
   
   </a>
 </div> 
+
 ## 🌟 Live Projects
 
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
