@@ -65,35 +65,36 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 
 ## 📊 GitHub Stats
 
-<div>
-  <div style="display: flex flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
-    <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=125" 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=126" 
     alt="Sharmin's GitHub stats" 
     style="max-width: 100%;"
-  />  
-
-   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=125" 
-    alt="Productive Time" 
-    style="max-width: 100%;"
-  />  
+  />
   
-  </div>
- <div style="display: flex flex; flex-wrap: wrap; justify-content: center; gap: 6px;>
-    <img 
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=125" 
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharminmily&theme=dracula&dummy=126" 
+    alt="Summary stats (includes total stars)" 
+    style="max-width: 100%;"
+  />
+  
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=126" 
     alt="Streak stats" 
     style="max-width: 100%;"
   />
+  
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=125" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=126" 
     alt="Top Languages" 
     style="max-width: 100%;"
   />
   
- </div>
- 
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=126" 
+    alt="Productive Time" 
+    style="max-width: 100%;"
+  />
 </div>
 
 <p align="center" style="color: #aaa; font-size: 0.9em; margin: 10px 0;">
