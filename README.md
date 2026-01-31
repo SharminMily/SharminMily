@@ -3,6 +3,7 @@
     <img src="./images/banner.png" alt="Banner" width="100%" />
   </a>
 </div>
+
 ## 🚀 About Me
 
 I'm a dedicated Full-Stack Developer with a passion for building scalable, user-friendly web applications. Skilled in TypeScript, Prisma, Mongoose, SQL, modern JavaScript frameworks, Node.js & Express APIs, and databases like MongoDB & PostgreSQL. I love turning creative ideas into clean, maintainable, production-ready code.
@@ -98,6 +99,7 @@ Each project is fully responsive — mobile, tablet, desktop.
     alt="Profile views counter."
   />
 </div>
+
 ## 📫 Connect with Me
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 30px 0; flex-wrap: wrap;">
