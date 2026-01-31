@@ -68,33 +68,34 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 <div align="center" style="margin: 30px 0;">
 
   <!-- First row: Main stats + Productive Time -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img 
-      src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=127" 
+      src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=128" 
       alt="Sharmin's GitHub stats" 
       style="max-width: 100%; flex: 1 1 400px;"
     />
-    
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=127" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=128" 
       alt="Productive Time" 
       style="max-width: 100%; flex: 1 1 400px;"
     />
+    
+    
   </div>
 
   <!-- Second row: Streak + Top Languages -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
     <img 
-      src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=127" 
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=128" 
       alt="Streak stats" 
       style="max-width: 100%; flex: 1 1 400px;"
-    />
-    
-    <img 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=127" 
+    /> <img 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=128" 
       alt="Top Languages" 
       style="max-width: 100%; flex: 1 1 400px;"
     />
+    
+    
   </div>
 
 </div>
