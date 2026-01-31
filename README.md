@@ -96,7 +96,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Twitter" />  
   </a>
   <a href="mailto:sharminmily09@gmail.com" target="_blank">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email" />
+<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email" />
 &nbsp;&nbsp;</a>
 </div> 
 
