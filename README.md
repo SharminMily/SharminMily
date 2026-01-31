@@ -64,16 +64,14 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" />
   <img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" title="HTMX" width="50" />
 </div>
-## 📊 GitHub Activity Overview
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 30px 0;">
-  <!-- Main Stats: commits (all-time), stars, PRs, etc. -->
+
   ## 📊 GitHub Stats
 ![Sharmin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=nord&rank_icon=github)
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=nord&hide_border=true)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=nord&hide_border=true)
 ## ⏰ Productive Time
  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=nord&utcOffset=6&cache_seconds=0)
-</div>
+
 ## 🌟 Live Projects
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
 - **[Bicycle Store](https://bicycle-store-fontend.vercel.app/)**
@@ -85,6 +83,7 @@ Here are some of my standout projects, built with modern tech stacks for seamles
 <!-- Uncomment if you want to add back -->
 <!-- - **[Camps Medical](https://camps-medical.surge.sh)**: Healthcare portal for medical camps. (Tech: React, Node.js, PostgreSQL) -->
 Each project is fully responsive — mobile, tablet, desktop.
+
 ## 📫 Connect with Me
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 30px 0; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/sharmin5599" target="_blank">
