@@ -83,7 +83,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 
 
 
-<!-- Rest of your README (projects, connect) same as before## 🌟 Live Projects
+## 🌟 Live Projects
 
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
 
