@@ -65,40 +65,42 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=126" 
-    alt="Sharmin's GitHub stats" 
-    style="max-width: 100%;"
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharminmily&theme=dracula&dummy=126" 
-    alt="Summary stats (includes total stars)" 
-    style="max-width: 100%;"
-  />
-  
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=126" 
-    alt="Streak stats" 
-    style="max-width: 100%;"
-  />
-  
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=126" 
-    alt="Top Languages" 
-    style="max-width: 100%;"
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=126" 
-    alt="Productive Time" 
-    style="max-width: 100%;"
-  />
+<div align="center" style="margin: 30px 0;">
+
+  <!-- First row: Main stats + Productive Time -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <img 
+      src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=127" 
+      alt="Sharmin's GitHub stats" 
+      style="max-width: 100%; flex: 1 1 400px;"
+    />
+    
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=127" 
+      alt="Productive Time" 
+      style="max-width: 100%; flex: 1 1 400px;"
+    />
+  </div>
+
+  <!-- Second row: Streak + Top Languages -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img 
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=127" 
+      alt="Streak stats" 
+      style="max-width: 100%; flex: 1 1 400px;"
+    />
+    
+    <img 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=127" 
+      alt="Top Languages" 
+      style="max-width: 100%; flex: 1 1 400px;"
+    />
+  </div>
+
 </div>
 
-<p align="center" style="color: #aaa; font-size: 0.9em; margin: 10px 0;">
-  <small>(Stars = 0 right now → normal if no one starred your repos yet. Share your projects!)</small>
+<p align="center" style="color: #aaa; font-size: 0.9em; margin: 15px 0 30px;">
+  <small>Stars = 0 right now (normal if no one starred your repos yet — share your projects!)</small>
 </p>
 
 ## 🌟 Live Projects
