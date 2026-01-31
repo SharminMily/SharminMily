@@ -46,11 +46,11 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 30px; margin-bottom: 30px; box-sizing: border-box;">
     <img 
       src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=129" 
-      alt="Sharmin's GitHub stats" 
+      alt="Sharmin's GitHub stats." 
       style="max-width: 100%; flex: 1 1 400px; min-width: 300px; box-sizing: border-box;"
     /> <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=129" 
-      alt="Productive Time" 
+      alt="Productive Time." 
       style="max-width: 100%; flex: 1 1 400px; min-width: 300px; box-sizing: border-box;"
     />
     
@@ -61,11 +61,11 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 30px; box-sizing: border-box;">
     <img 
       src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=129" 
-      alt="Streak stats" 
+      alt="Streak stats." 
       style="max-width: 100%; flex: 1 1 400px; min-width: 300px; box-sizing: border-box;"
     /><img 
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=129" 
-      alt="Top Languages" 
+      alt="Top Languages." 
       style="max-width: 100%; flex: 1 1 400px; min-width: 300px; box-sizing: border-box;"
     />
     
@@ -79,7 +79,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 <div  >
   <img
     src="https://komarev.com/ghpvc/?username=sharminmily&color=1DA1F2&style=flat&logo=eye&logoColor=white"
-    alt="Profile views counter"
+    alt="Profile views counter."
   />
 </div>
 
@@ -97,7 +97,7 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
   </a>
   <a href="mailto:sharminmily09@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Email" />
-&nbsp;&nbsp;</a>
+</a>
 </div> 
 
 ## 🌟 Live Projects
