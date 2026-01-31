@@ -69,8 +69,7 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
 ![Sharmin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=nord&rank_icon=github)
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=nord&hide_border=true)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=nord&hide_border=true)
-## ⏰ Productive Time
- ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=nord&utcOffset=6&cache_seconds=0)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=nord&utcOffset=6&cache_seconds=0)
 
 ## 🌟 Live Projects
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
