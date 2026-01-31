@@ -69,13 +69,44 @@ I'm a dedicated Full-Stack Developer with a flair for crafting scalable, user-ce
 </div>
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  ![Sharmin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github)
-  ![GitHub Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharminmily&theme=dracula)
-  ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true)
-  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true)
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=123)
+  <!-- Main stats card -->
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=sharminmily&show_icons=true&theme=dracula&rank_icon=github&dummy=124" 
+    alt="Sharmin's GitHub stats"
+  />
+
+  <!-- Summary stats (includes total stars, PRs, issues, etc.) -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharminmily&theme=dracula&dummy=124" 
+    alt="GitHub Summary Stats"
+  />
+
+  <!-- Streak stats -->
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sharminmily&theme=dracula&hide_border=true&dummy=124" 
+    alt="GitHub Streak"
+  />
+
+  <!-- Top languages -->
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharminmily&layout=compact&theme=dracula&hide_border=true&dummy=124" 
+    alt="Top Languages"
+  />
+
+  <!-- Productive time (known limitation: shows UTC hours, not +6) -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharminmily&theme=dracula&utcOffset=6&dummy=124" 
+    alt="Productive Time"
+  />
 </div>
+
+<p align="center" style="color: #888; font-size: 0.9em; margin-top: 10px;">
+  All stats update automatically from GitHub. Stars = 0 right now because no one has starred your public repositories yet — share your projects to grow it! 🚀<br>
+  Productive time chart uses UTC (tool limitation) — consider WakaTime for real local-time tracking.
+</p>
 
 ## 🌟 Live Projects
 Here are some of my standout projects, built with modern tech stacks for seamless performance across devices:
