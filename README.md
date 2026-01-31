@@ -11,18 +11,8 @@
     Passionate Full-Stack Developer!
   </h3>
 </div>
-
-<div align="center" style="margin: 40px 0;">
-  <img
-    src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
-    alt="Coding Animation"
-    width="220"
-    style="border-radius: 50%; border: 5px solid #ec4899; box-shadow: 0 0 25px rgba(236, 72, 153, 0.4); max-width: 100%; box-sizing: border-box;"
-  />
-</div>
-
 <!-- Profile Views -->
-<div align="center" style="margin: 30px 0;">
+<div style="margin: 30px 0;">
   <img
     src="https://komarev.com/ghpvc/?username=sharminmily&label=Profile%20Views&color=1DA1F2&style=for-the-badge&logo=eye&logoColor=white"
     alt="Profile views counter"
@@ -36,10 +26,31 @@ I'm a dedicated Full-Stack Developer with a passion for building scalable, user-
 - 🌱 Currently exploring advanced full-stack patterns and cloud deployment
 - 💡 Fun fact: I enjoy mixing creativity with logic to solve real problems
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0; max-width: 100%; box-sizing: border-box;">
-  <!-- Your icons here... same as before -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="50" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" />
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" title="Material-UI" width="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" />
+  <img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" title="HTMX" width="50" />
 </div>
 
 ## 📊 GitHub Stats
