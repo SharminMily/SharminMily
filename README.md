@@ -91,7 +91,7 @@ Each project is fully responsive — mobile, tablet, desktop.
   <a href="https://github.com/sharminmily" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="GitHub" />
   </a>
-  <a href="https://x.com/Sharmin9749601" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="X" />
+  <a href="https://x.com/Sharmin9749601?t=0JIyQ8BVXxg-xh8OgcoA8A&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Twitter" />
   </a>
 </div>
